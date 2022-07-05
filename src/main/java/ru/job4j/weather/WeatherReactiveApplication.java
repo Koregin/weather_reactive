@@ -1,4 +1,4 @@
-package ru.job4j.weather_reactive;
+package ru.job4j.weather;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
